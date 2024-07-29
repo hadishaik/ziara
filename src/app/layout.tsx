@@ -10,8 +10,8 @@ const exo = Exo_2({ subsets: ["latin"], weight: ["400", "700"] });
 const Bodoni = Bodoni_Moda({ subsets: ["latin"], weight: ["400", "700"] });
 
 export const metadata: Metadata = {
-  title: "Orchidaceae",
-  description: "Online Flower Store crafted by Haji",
+  title: "Ziara Designs",
+  description: "Modern E-Commerce store",
 };
 
 export default function RootLayout({
